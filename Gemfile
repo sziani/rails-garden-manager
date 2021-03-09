@@ -7,7 +7,7 @@ gem 'rails', '~> 6.1.1'
 gem 'redis'
 gem 'faker'
 gem 'rest-client'
-gem 'puma', '~> 5.2', '>= 5.2.2'
+gem 'puma', '~> 5.2'
 
 gem 'autoprefixer-rails'
 gem 'font-awesome-sass', '~> 5.6.1'
