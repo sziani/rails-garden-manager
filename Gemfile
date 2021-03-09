@@ -3,11 +3,11 @@ ruby '2.6.6'
 
 gem 'bootsnap', require: false
 gem 'pg', '~> 1.1'
-gem "puma", ">= 5.2.2"
 gem 'rails', '~> 6.1.1'
 gem 'redis'
 gem 'faker'
 gem 'rest-client'
+gem 'puma', '~> 5.2', '>= 5.2.2'
 
 gem 'autoprefixer-rails'
 gem 'font-awesome-sass', '~> 5.6.1'
